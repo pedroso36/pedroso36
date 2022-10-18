@@ -1,6 +1,6 @@
-- 👋 Olá, me chamo Augusto pedroso e estou iniciando na programação. Cursando analise e desenvolvimento de sistemas 1ºSemestre.
+- 👋 Olá, me chamo Augusto pedroso e estou iniciando na programação. Cursando analise e desenvolvimento de sistemas 2ºSemestre.
 - 👀 Estou buscando cada vez mais conhecimento para desenvolver minhas skills melhor e me colocar em destaque no mercado de trabalho.
-- 🌱 Sou aluno do ignite da Rocketseat com foco em Node.JS / Estou estudando por conta PHP/Laravel.
+- 🌱 Sou aluno do ignite da Rocketseat com foco em Node.JS / Estou estudando por conta PHP/Laravel, SQL.
 Instagram: @guto_36 <br>
 Linkedin: guto36/
 
